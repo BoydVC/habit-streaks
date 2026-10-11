@@ -1,0 +1,71 @@
+{
+  "title": "Boyd Habit Streaks",
+  "version": 1,
+  "note": "EXAMPLE personal habits for Boyd — AI-ops, family logistics, fitness. Gentle streaks with a freeze-day rule. Not another skill forge.",
+  "weekStarts": "monday",
+  "freezeRule": {
+    "title": "Freeze-day rule",
+    "body": "One freeze day per rolling 7 days protects your streak when life wins (sick kid, late practice, travel). Mark a freeze instead of breaking the chain. Unused freezes do not stack beyond one."
+  },
+  "habits": [
+    {
+      "id": "fleet-health",
+      "label": "Fleet health glance",
+      "category": "AI-ops",
+      "emoji": "🩺",
+      "color": "#6366f1",
+      "example": true,
+      "hint": "EXAMPLE — quick look at bot fleet / usage before the day runs away"
+    },
+    {
+      "id": "miranda-cal",
+      "label": "Miranda calendar sync",
+      "category": "Family logistics",
+      "emoji": "📅",
+      "color": "#ec4899",
+      "example": true,
+      "hint": "EXAMPLE — skim shared calendar / school / sports with Miranda"
+    },
+    {
+      "id": "walk-20",
+      "label": "Walk 20 min",
+      "category": "Fitness",
+      "emoji": "🚶",
+      "color": "#10b981",
+      "example": true,
+      "hint": "EXAMPLE — gentle movement, not a gym program"
+    },
+    {
+      "id": "inbox-triage",
+      "label": "Inbox triage (15 min)",
+      "category": "AI-ops",
+      "emoji": "📬",
+      "color": "#8b5cf6",
+      "example": true,
+      "hint": "EXAMPLE — clear heat, defer the rest"
+    },
+    {
+      "id": "sports-logistics",
+      "label": "Sports logistics check",
+      "category": "Family logistics",
+      "emoji": "⚽",
+      "color": "#f59e0b",
+      "example": true,
+      "hint": "EXAMPLE — tomorrow's practices / carpools for Char & Vic"
+    },
+    {
+      "id": "water",
+      "label": "Water bottle ×3",
+      "category": "Fitness",
+      "emoji": "💧",
+      "color": "#06b6d4",
+      "example": true,
+      "hint": "EXAMPLE — stay hydrated"
+    }
+  ],
+  "categories": [
+    {"id": "AI-ops", "label": "AI-ops", "color": "#6366f1"},
+    {"id": "Family logistics", "label": "Family logistics", "color": "#ec4899"},
+    {"id": "Fitness", "label": "Fitness", "color": "#10b981"}
+  ]
+}
