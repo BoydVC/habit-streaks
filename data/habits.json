@@ -19,12 +19,12 @@
     },
     {
       "id": "miranda-cal",
-      "label": "Miranda calendar sync",
+      "label": "Jordan calendar sync",
       "category": "Family logistics",
       "emoji": "📅",
       "color": "#ec4899",
       "example": true,
-      "hint": "EXAMPLE — skim shared calendar / school / sports with Miranda"
+      "hint": "EXAMPLE — skim shared calendar / school / sports with Jordan"
     },
     {
       "id": "walk-20",
@@ -51,7 +51,7 @@
       "emoji": "⚽",
       "color": "#f59e0b",
       "example": true,
-      "hint": "EXAMPLE — tomorrow's practices / carpools for Char & Vic"
+      "hint": "EXAMPLE — tomorrow's practices / carpools for Alex & Sam"
     },
     {
       "id": "water",
