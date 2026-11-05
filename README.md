@@ -1,8 +1,8 @@
 # Habit Streaks
 
-Calm personal habit streak board for **Boyd** — AI-ops daily, family logistics, fitness — with gentle streaks and a freeze-day rule. Not another skill forge. TokenMax burn build.
+Calm personal habit streak board for **Alex** — AI-ops daily, family logistics, fitness — with gentle streaks and a freeze-day rule. Not another skill forge. TokenMax burn build.
 
-EXAMPLE habits (Fleet health glance, Jordan calendar sync, Walk 20 min, …). Checkmarks in `localStorage`. Week heatmap. One freeze day per rolling 7 days.
+EXAMPLE habits (Fleet health glance, Sam calendar sync, Walk 20 min, …). Checkmarks in `localStorage`. Week heatmap. One freeze day per rolling 7 days.
 
 ## Screens
 
@@ -32,6 +32,6 @@ Offline single file: `dist/habit-streaks.html`
 
 ---
 ## Repo notes
-- **Built:** Oct 2026 (TokenMax build week; see SHORTLIST/ledger), by TokenMax (Boyd's Grok Bot) on the Grok Bot box.
+- **Built:** Oct 2026 (TokenMax build week; see SHORTLIST/ledger), by TokenMax (Alex's Grok Bot) on the Grok Bot box.
 - **Run:** `./run.sh` (then open the localhost URL it prints).
 - Imported from `/workspace/tokenmax/habit-streaks` on Oct 23, 2026. node_modules, virtualenvs, logs and files over 20 MB were left out.

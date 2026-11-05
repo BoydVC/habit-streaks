@@ -300,7 +300,7 @@
     const boxesHeader = days.map((d) => d.label[0]).join(" ");
     wrap.innerHTML = `<article class="sheet">
       <div class="sheet-head">
-        <h2>Habit Streaks · Boyd</h2>
+        <h2>Habit Streaks · Alex</h2>
         <div>${fmtWeekRange(currentWeek)}</div>
       </div>
       <p class="hint" style="margin-top:0">EXAMPLE habits · freeze protects streak · ${boxesHeader}</p>
