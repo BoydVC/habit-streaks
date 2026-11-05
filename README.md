@@ -2,7 +2,7 @@
 
 Calm personal habit streak board for **Boyd** — AI-ops daily, family logistics, fitness — with gentle streaks and a freeze-day rule. Not another skill forge. TokenMax burn build.
 
-EXAMPLE habits (Fleet health glance, Miranda calendar sync, Walk 20 min, …). Checkmarks in `localStorage`. Week heatmap. One freeze day per rolling 7 days.
+EXAMPLE habits (Fleet health glance, Jordan calendar sync, Walk 20 min, …). Checkmarks in `localStorage`. Week heatmap. One freeze day per rolling 7 days.
 
 ## Screens
 
