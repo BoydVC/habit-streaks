@@ -1,7 +1,7 @@
 {
-  "title": "Boyd Habit Streaks",
+  "title": "Rivera Habit Streaks",
   "version": 1,
-  "note": "EXAMPLE personal habits for Boyd — AI-ops, family logistics, fitness. Gentle streaks with a freeze-day rule. Not another skill forge.",
+  "note": "EXAMPLE personal habits for Alex — AI-ops, family logistics, fitness. Gentle streaks with a freeze-day rule. Not another skill forge.",
   "weekStarts": "monday",
   "freezeRule": {
     "title": "Freeze-day rule",
@@ -19,12 +19,12 @@
     },
     {
       "id": "miranda-cal",
-      "label": "Jordan calendar sync",
+      "label": "Sam calendar sync",
       "category": "Family logistics",
       "emoji": "📅",
       "color": "#ec4899",
       "example": true,
-      "hint": "EXAMPLE — skim shared calendar / school / sports with Jordan"
+      "hint": "EXAMPLE — skim shared calendar / school / sports with Sam"
     },
     {
       "id": "walk-20",
@@ -51,7 +51,7 @@
       "emoji": "⚽",
       "color": "#f59e0b",
       "example": true,
-      "hint": "EXAMPLE — tomorrow's practices / carpools for Alex & Sam"
+      "hint": "EXAMPLE — tomorrow's practices / carpools for Ri & Jo"
     },
     {
       "id": "water",
